@@ -120,13 +120,13 @@ Status: VALID
 
 * **Nama:** Jaka Perdana
 * **Kelas:** PTIK - A 2024
-* **Universitas:** \[Isi sesuai institusi Anda]
+* **Universitas:** \Universitas Negeri Medan
 
 ---
 
 ## 🙌 Kontribusi
 
-1. Fork repo ini
+1. Creat repo ini
 2. Buat branch baru (`fitur-baru`)
 3. Commit perubahan (`git commit -m "Tambah fitur"`)
 4. Push ke GitHub
