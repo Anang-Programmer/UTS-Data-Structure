@@ -119,6 +119,7 @@ Status: VALID
 ## 👨‍💼 Pengembang
 
 * **Nama:** Jaka Perdana
+* **NIM:** 5243151043
 * **Kelas:** PTIK - A 2024
 * **Universitas:** Universitas Negeri Medan
 
