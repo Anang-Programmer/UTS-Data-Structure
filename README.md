@@ -1,4 +1,4 @@
-# 📚 Sistem Manajemen Data Mahasiswa
+# 📚 Ujian Tengah Semester
 
 Sebuah aplikasi Python berbasis terminal untuk:
 
